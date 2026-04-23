@@ -1,79 +1,163 @@
 # ================================
-# OhMyUI! — .gitignore
+# OhMyUI! Docs — .gitignore
 # ================================
 
-# =========================
-# OS FILES
-# =========================
+
+# ================================
+# OS
+# ================================
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
 Thumbs.db
+ehthumbs.db
 desktop.ini
 
-# =========================
-# NODE / JS FILES
-# =========================
+
+# ================================
+# Dependencies
+# ================================
 node_modules/
+jspm_packages/
+bower_components/
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+
+# ================================
+# Logs
+# ================================
+logs/
+*.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
+lerna-debug.log*
 
-dist/
-build/
-out/
 
-# =========================
-# ENV FILES
-# =========================
+# ================================
+# Environment variables
+# ================================
 .env
 .env.local
 .env.*.local
+!.env.example
 
-# =========================
-# LOG FILES
-# =========================
-*.log
 
-# =========================
-# IDE - VS CODE
-# =========================
-.vscode/*
+# ================================
+# VitePress
+# ================================
+docs/.vitepress/dist
+docs/.vitepress/cache
 
-*.code-workspace
 
-# =========================
-# MARKDOWN / DOCS (SAFE RULES)
-# =========================
-
-# Temporary or working docs
-*.tmp.md
-*.draft.md
-*.bak.md
-
-# Exported or generated docs
+# ================================
+# Build outputs
+# ================================
+dist/
+build/
+out/
 docs/_generated/
 docs/build/
 docs/dist/
 
-# Mermaid / diagram cache
+
+# ================================
+# Cache directories
+# ================================
+.cache/
+.parcel-cache/
+.npm/
+.eslintcache
+.stylelintcache
+.temp/
+tmp/
+
+
+# ================================
+# TypeScript
+# ================================
+*.tsbuildinfo
+
+
+# ================================
+# Vite
+# ================================
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+vitest.config.*.timestamp*
+
+
+# ================================
+# Testing & coverage
+# ================================
+coverage/
+*.lcov
+*.coverage
+.nyc_output/
+
+
+# ================================
+# VSCode
+# ================================
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+*.code-workspace
+
+
+# ================================
+# JetBrains IDEs
+# ================================
+.idea/
+*.iml
+*.iws
+*.ipr
+
+
+# ================================
+# Diagrams & docs cache
+# ================================
 *.mmd.tmp
 *.mermaid.cache
-
-# =========================
-# ARCHITECTURE GENERATED ARTIFACTS
-# =========================
 architecture/_generated/
 architecture/build/
 architecture/cache/
 
-# =========================
-# TEST / DEBUG ARTIFACTS
-# =========================
-coverage/
-*.coverage
 
-# =========================
-# OPTIONAL: LOCAL NOTES (PERSONAL)
-# =========================
-notes/
+# ================================
+# Temporary & personal files
+# ================================
+*.tmp
+*.tmp.md
+*.draft.md
+*.bak
+*.bak.md
 *.personal.md
+notes/
+scratch/
+
+
+# ================================
+# Package manager locks
+# ================================
+package-lock.json
+
+
+# ================================
+# Misc
+# ================================
+*.pid
+*.seed
+*.pid.lock
+.grunt/
+.lock-wscript
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
