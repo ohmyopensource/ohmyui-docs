@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress';
 
 export default defineConfig({
-  title: 'OhMyUI!',
+  title: 'OhMyUI! Docs',
   description: 'Open source design system by OhMyOpenSource!',
   lang: 'en-US',
 
@@ -31,7 +31,7 @@ export default defineConfig({
         content: 'Open Source design system by OhMyOpenSource!',
       },
     ],
-    ['meta', { property: 'og:site_name', content: 'OhMyUI!' }],
+    ['meta', { property: 'og:site_name', content: 'OhMyUI! Docs' }],
     [
       'meta',
       {
@@ -60,7 +60,8 @@ export default defineConfig({
   ],
 
   themeConfig: {
-    logo: '/logo.svg',
+    logo: '/omos-logo.png',
+    siteTitle: 'OhMyUI! Docs',
 
     // ================================
     // TOP NAVIGATION

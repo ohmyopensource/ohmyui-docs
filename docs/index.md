@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: 'OhMyUI!'
+  name: 'OhMyUI! Docs'
   text: 'Open source design system by OhMyOpenSource!'
   tagline: One token source. Three platforms. Consistent UI everywhere.
   image:
