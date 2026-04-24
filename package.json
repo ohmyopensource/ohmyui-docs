@@ -1,4 +1,7 @@
 {
+  "name": "ohmyui-docs",
+  "version": "1.0.0",
+  "description": "OhMyUI! Documentation",
   "devDependencies": {
     "vitepress": "^1.6.4"
   },

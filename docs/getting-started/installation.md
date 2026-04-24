@@ -10,7 +10,7 @@ Before installing, make sure you have:
 
 - [Node.js](https://nodejs.org/) v22 or higher
 - [npm](https://www.npmjs.com/) v10 or higher
-- [Flutter SDK](https://flutter.dev/docs/get-started/install) — only if using Flutter components
+- [Flutter SDK](https://flutter.dev/docs/get-started/install) - only if using Flutter components
 
 ---
 

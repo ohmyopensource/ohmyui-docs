@@ -2,7 +2,7 @@
 
 This page walks you through creating your first component in OhMyUI! from scratch, end to end. You will create a simple `Tag` component for all three platforms.
 
-By the end of this page you will understand the full workflow — from defining a token to seeing the component in Storybook.
+By the end of this page you will understand the full workflow - from defining a token to seeing the component in Storybook.
 
 ---
 
@@ -17,22 +17,22 @@ By the end of this page you will understand the full workflow — from defining 
 
 ---
 
-## Step 1 — Check the available tokens
+## Step 1 - Check the available tokens
 
 Before writing any code, open `packages/tokens/build/css/variables.css` and look at what is available. For our `Tag` component we will use:
 
-- `--color-primary-500` — background color
-- `--color-neutral-0` — text color
-- `--font-size-xs` — font size
-- `--font-weight-medium` — font weight
-- `--spacing-1` and `--spacing-3` — padding
-- `--radius-full` — border radius
+- `--color-primary-500` - background color
+- `--color-neutral-0` - text color
+- `--font-size-xs` - font size
+- `--font-weight-medium` - font weight
+- `--spacing-1` and `--spacing-3` - padding
+- `--radius-full` - border radius
 
 Always use existing tokens before adding new ones. If you need a value that does not exist yet, see the [Adding a Token](/guides/adding-a-token) guide first.
 
 ---
 
-## Step 2 — Angular
+## Step 2 - Angular
 
 ### Generate the files
 
@@ -137,7 +137,7 @@ Open `http://localhost:6006` and find `Components/Tag` in the sidebar.
 
 ---
 
-## Step 3 — React
+## Step 3 - React
 
 Create `packages/ohmyui-react/src/lib/tag/tag.tsx`:
 
@@ -200,7 +200,7 @@ export * from './lib/tag/tag';
 
 ---
 
-## Step 4 — Flutter
+## Step 4 - Flutter
 
 Create `packages/ohmyui_flutter/lib/src/components/tag/tag.dart`:
 
@@ -256,7 +256,7 @@ flutter test
 
 ---
 
-## Step 5 — Commit and push
+## Step 5 - Commit and push
 
 ```bash
 git checkout -b feat/tag-component

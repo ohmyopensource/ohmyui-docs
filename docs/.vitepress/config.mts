@@ -55,15 +55,15 @@ export default defineConfig({
           items: [
             { text: 'Adding a Token', link: '/guides/adding-a-token' },
             {
-              text: 'Adding a Component — Angular',
+              text: 'Adding a Component - Angular',
               link: '/guides/adding-a-component-angular',
             },
             {
-              text: 'Adding a Component — React',
+              text: 'Adding a Component - React',
               link: '/guides/adding-a-component-react',
             },
             {
-              text: 'Adding a Component — Flutter',
+              text: 'Adding a Component - Flutter',
               link: '/guides/adding-a-component-flutter',
             },
             { text: 'Submitting a PR', link: '/guides/submitting-a-pr' },

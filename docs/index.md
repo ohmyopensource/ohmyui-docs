@@ -5,6 +5,9 @@ hero:
   name: 'OhMyUI!'
   text: 'Open source design system by OhMyOpenSource!'
   tagline: One token source. Three platforms. Consistent UI everywhere.
+  image:
+    src: /omos-logo.png
+    alt: OhMyOpenSource! Logo
   actions:
     - theme: brand
       text: Get Started
