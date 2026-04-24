@@ -1,4 +1,28 @@
-# Badge
+---
+title: Badge | OhMyUI!
+description: Open source Badge component for Angular, React and Flutter. Five semantic variants and two sizes for status, labels and categories.
+head:
+  - - meta
+    - property: og:title
+      content: Badge | OhMyUI!
+  - - meta
+    - property: og:description
+      content: Open source Badge component for Angular, React and Flutter. Five semantic variants and two sizes for status, labels and categories.
+  - - meta
+    - property: og:url
+      content: https://ui.ohmyopensource.org/components/badge
+  - - meta
+    - name: keywords
+      content: badge component, angular badge, react badge, flutter badge, ui label, status badge, design system, open source ui
+  - - meta
+    - name: twitter:title
+      content: Badge | OhMyUI!
+  - - meta
+    - name: twitter:description
+      content: Open source Badge component for Angular, React and Flutter. Five semantic variants and two sizes for status, labels and categories.
+---
+
+# OhMyUI! - Badge
 
 The Badge is a small label used to communicate status, category or count. It supports five semantic variants and two sizes.
 

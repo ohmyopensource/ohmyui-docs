@@ -1,4 +1,28 @@
-# Submitting a Pull Request
+---
+title: Submitting a Pull Request | OhMyUI!
+description: Learn how to submit a Pull Request to OhMyUI!. Branching, commit conventions, review process and best practices for contributions.
+head:
+  - - meta
+    - property: og:title
+      content: Submitting a Pull Request | OhMyUI!
+  - - meta
+    - property: og:description
+      content: Learn how to submit a Pull Request to OhMyUI!. Branching, commit conventions, review process and best practices for contributions.
+  - - meta
+    - property: og:url
+      content: https://ui.ohmyopensource.org/guides/submitting-a-pr
+  - - meta
+    - name: keywords
+      content: pull request guide, open source contribution, git workflow, conventional commits, dev branch workflow, code review process, ohmyui contribution
+  - - meta
+    - name: twitter:title
+      content: Submitting a Pull Request | OhMyUI!
+  - - meta
+    - name: twitter:description
+      content: Learn how to submit a Pull Request to OhMyUI!. Branching, commit conventions, review process and best practices for contributions.
+---
+
+# OhMyUI! - Submitting a Pull Request
 
 This guide explains how to submit your work correctly to OhMyUI!. Following this process ensures your contribution is reviewed and merged as smoothly as possible.
 

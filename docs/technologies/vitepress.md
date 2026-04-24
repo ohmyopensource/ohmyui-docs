@@ -1,4 +1,28 @@
-# VitePress
+---
+title: VitePress | OhMyUI!
+description: Learn how VitePress powers the OhMyUI! documentation site. Write Markdown docs, configure navigation and build a static site.
+head:
+  - - meta
+    - property: og:title
+      content: VitePress | OhMyUI!
+  - - meta
+    - property: og:description
+      content: Learn how VitePress powers the OhMyUI! documentation site. Write Markdown docs, configure navigation and build a static site.
+  - - meta
+    - property: og:url
+      content: https://ui.ohmyopensource.org/technologies/vitepress
+  - - meta
+    - name: keywords
+      content: vitepress, documentation site generator, markdown docs, static site generator, vue docs tool, ohmyui documentation
+  - - meta
+    - name: twitter:title
+      content: VitePress | OhMyUI!
+  - - meta
+    - name: twitter:description
+      content: Learn how VitePress powers the OhMyUI! documentation site. Write Markdown docs, configure navigation and build a static site.
+---
+
+# OhMyUI! - VitePress
 
 VitePress is the static site generator used to build the OhMyUI! documentation site. It takes Markdown files and turns them into a fast, searchable documentation website.
 

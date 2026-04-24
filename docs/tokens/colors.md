@@ -1,4 +1,28 @@
-# Colors
+---
+title: Colors | OhMyUI!
+description: Explore OhMyUI! color tokens. Primary, neutral and semantic palettes available as CSS variables and Dart constants for consistent UI design.
+head:
+  - - meta
+    - property: og:title
+      content: Colors | OhMyUI!
+  - - meta
+    - property: og:description
+      content: Explore OhMyUI! color tokens. Primary, neutral and semantic palettes available as CSS variables and Dart constants for consistent UI design.
+  - - meta
+    - property: og:url
+      content: https://ui.ohmyopensource.org/tokens/colors
+  - - meta
+    - name: keywords
+      content: color tokens, design system colors, css variables colors, dart color constants, ui color palette, semantic colors, ohmyui tokens
+  - - meta
+    - name: twitter:title
+      content: Colors | OhMyUI!
+  - - meta
+    - name: twitter:description
+      content: Explore OhMyUI! color tokens. Primary, neutral and semantic palettes available as CSS variables and Dart constants for consistent UI design.
+---
+
+# OhMyUI! - Colors
 
 Colors are defined in `packages/tokens/src/colors.json` and compiled automatically to CSS variables and Dart constants.
 

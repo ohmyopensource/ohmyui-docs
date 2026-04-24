@@ -1,4 +1,28 @@
-# Design Tokens
+---
+title: Design Tokens | OhMyUI!
+description: Learn how design tokens work in OhMyUI!. Centralized values for colors, spacing and typography shared across Angular, React and Flutter.
+head:
+  - - meta
+    - property: og:title
+      content: Design Tokens | OhMyUI!
+  - - meta
+    - property: og:description
+      content: Learn how design tokens work in OhMyUI!. Centralized values for colors, spacing and typography shared across Angular, React and Flutter.
+  - - meta
+    - property: og:url
+      content: https://ui.ohmyopensource.org/tokens/overview
+  - - meta
+    - name: keywords
+      content: design tokens, design system tokens, style dictionary tokens, css variables design system, flutter design tokens, cross platform ui tokens, ohmyui
+  - - meta
+    - name: twitter:title
+      content: Design Tokens | OhMyUI!
+  - - meta
+    - name: twitter:description
+      content: Learn how design tokens work in OhMyUI!. Centralized values for colors, spacing and typography shared across Angular, React and Flutter.
+---
+
+# OhMyUI! - Design Tokens
 
 Design tokens are the foundation of OhMyUI!. They are the single source of truth for all visual values - colors, spacing, typography - used across every platform.
 

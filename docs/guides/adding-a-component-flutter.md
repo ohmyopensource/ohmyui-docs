@@ -1,4 +1,28 @@
-# Adding a Component - Flutter
+---
+title: Adding a Component - Flutter | OhMyUI!
+description: Learn how to create a new Flutter widget in OhMyUI!. Step-by-step guide with Dart, tokens, testing and project structure.
+head:
+  - - meta
+    - property: og:title
+      content: Adding a Component - Flutter | OhMyUI!
+  - - meta
+    - property: og:description
+      content: Learn how to create a new Flutter widget in OhMyUI!. Step-by-step guide with Dart, tokens, testing and project structure.
+  - - meta
+    - property: og:url
+      content: https://ui.ohmyopensource.org/guides/adding-a-component-flutter
+  - - meta
+    - name: keywords
+      content: flutter widget guide, create flutter component, design system flutter, dart ui components, flutter tokens, ohmyui flutter
+  - - meta
+    - name: twitter:title
+      content: Adding a Component - Flutter | OhMyUI!
+  - - meta
+    - name: twitter:description
+      content: Learn how to create a new Flutter widget in OhMyUI!. Step-by-step guide with Dart, tokens, testing and project structure.
+---
+
+# OhMyUI! - Adding a Component: Flutter
 
 This guide walks you through adding a new widget to the Flutter package of OhMyUI! from scratch.
 

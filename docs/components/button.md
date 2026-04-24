@@ -1,4 +1,28 @@
-# Button
+---
+title: Button | OhMyUI!
+description: Open source Button component for Angular, React and Flutter. Three variants, three sizes and disabled state, all built with design tokens.
+head:
+  - - meta
+    - property: og:title
+      content: Button | OhMyUI!
+  - - meta
+    - property: og:description
+      content: Open source Button component for Angular, React and Flutter. Three variants, three sizes and disabled state, all built with design tokens.
+  - - meta
+    - property: og:url
+      content: https://ui.ohmyopensource.org/components/button
+  - - meta
+    - name: keywords
+      content: button component, angular button, react button, flutter button, ohmyui, design system, open source ui
+  - - meta
+    - name: twitter:title
+      content: Button | OhMyUI!
+  - - meta
+    - name: twitter:description
+      content: Open source Button component for Angular, React and Flutter. Three variants, three sizes and disabled state, all built with design tokens.
+---
+
+# OhMyUI! - Button
 
 The Button is the primary interactive element in OhMyUI!. It supports three variants, three sizes and a disabled state.
 

@@ -1,4 +1,28 @@
-# Typography
+---
+title: Typography | OhMyUI!
+description: Explore OhMyUI! typography tokens. Font families, sizes, weights and line heights for consistent text across Angular, React and Flutter.
+head:
+  - - meta
+    - property: og:title
+      content: Typography | OhMyUI!
+  - - meta
+    - property: og:description
+      content: Explore OhMyUI! typography tokens. Font families, sizes, weights and line heights for consistent text across Angular, React and Flutter.
+  - - meta
+    - property: og:url
+      content: https://ui.ohmyopensource.org/tokens/typography
+  - - meta
+    - name: keywords
+      content: typography tokens, design system typography, font size tokens, font weight tokens, css typography variables, ui typography system, ohmyui tokens
+  - - meta
+    - name: twitter:title
+      content: Typography | OhMyUI!
+  - - meta
+    - name: twitter:description
+      content: Explore OhMyUI! typography tokens. Font families, sizes, weights and line heights for consistent text across Angular, React and Flutter.
+---
+
+# OhMyUI! - Typography
 
 Typography tokens are defined in `packages/tokens/src/typography.json` and cover font family, size, weight and line height.
 

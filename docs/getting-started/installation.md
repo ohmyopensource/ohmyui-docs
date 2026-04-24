@@ -1,4 +1,28 @@
-# Installation
+---
+title: Installation | OhMyUI!
+description: Install OhMyUI! for Angular, React and Flutter. Quick setup guide with npm, tokens and usage examples to get started fast.
+head:
+  - - meta
+    - property: og:title
+      content: Installation | OhMyUI!
+  - - meta
+    - property: og:description
+      content: Install OhMyUI! for Angular, React and Flutter. Quick setup guide with npm, tokens and usage examples to get started fast.
+  - - meta
+    - property: og:url
+      content: https://ui.ohmyopensource.org/getting-started/installation
+  - - meta
+    - name: keywords
+      content: ohmyui installation, install design system, angular ui install, react ui install, flutter ui install, npm ui library, design tokens setup
+  - - meta
+    - name: twitter:title
+      content: Installation | OhMyUI!
+  - - meta
+    - name: twitter:description
+      content: Install OhMyUI! for Angular, React and Flutter. Quick setup guide with npm, tokens and usage examples to get started fast.
+---
+
+# OhMyUI! - Installation
 
 OhMyUI! is a monorepo containing design tokens and UI components for Angular, React and Flutter. This page explains how to install the packages in your project.
 

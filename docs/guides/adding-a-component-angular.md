@@ -1,4 +1,28 @@
-# Adding a Component - Angular
+---
+title: Adding a Component - Angular | OhMyUI!
+description: Learn how to create a new Angular component in OhMyUI!. Step-by-step guide with tokens, Storybook and project structure.
+head:
+  - - meta
+    - property: og:title
+      content: Adding a Component - Angular | OhMyUI!
+  - - meta
+    - property: og:description
+      content: Learn how to create a new Angular component in OhMyUI!. Step-by-step guide with tokens, Storybook and project structure.
+  - - meta
+    - property: og:url
+      content: https://ui.ohmyopensource.org/guides/adding-a-component-angular
+  - - meta
+    - name: keywords
+      content: angular component guide, create angular component, design system angular, storybook angular guide, ui component angular, ohmyui angular
+  - - meta
+    - name: twitter:title
+      content: Adding a Component - Angular | OhMyUI!
+  - - meta
+    - name: twitter:description
+      content: Learn how to create a new Angular component in OhMyUI!. Step-by-step guide with tokens, Storybook and project structure.
+---
+
+# OhMyUI! - Adding a Component: Angular
 
 This guide walks you through adding a new component to the Angular package of OhMyUI! from scratch.
 

@@ -1,4 +1,28 @@
-# Adding a Component - React
+---
+title: Adding a Component - React | OhMyUI!
+description: Learn how to create a new React component in OhMyUI!. Step-by-step guide with TypeScript, CSS modules, tokens and Storybook setup.
+head:
+  - - meta
+    - property: og:title
+      content: Adding a Component - React | OhMyUI!
+  - - meta
+    - property: og:description
+      content: Learn how to create a new React component in OhMyUI!. Step-by-step guide with TypeScript, CSS modules, tokens and Storybook setup.
+  - - meta
+    - property: og:url
+      content: https://ui.ohmyopensource.org/guides/adding-a-component-react
+  - - meta
+    - name: keywords
+      content: react component guide, create react component, design system react, storybook react guide, css modules react, ui component react, ohmyui react
+  - - meta
+    - name: twitter:title
+      content: Adding a Component - React | OhMyUI!
+  - - meta
+    - name: twitter:description
+      content: Learn how to create a new React component in OhMyUI!. Step-by-step guide with TypeScript, CSS modules, tokens and Storybook setup.
+---
+
+# OhMyUI! - Adding a Component: React
 
 This guide walks you through adding a new component to the React package of OhMyUI! from scratch.
 

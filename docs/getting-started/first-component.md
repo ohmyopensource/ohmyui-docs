@@ -1,4 +1,28 @@
-# First Component
+---
+title: First Component | OhMyUI!
+description: Learn how to build your first component in OhMyUI!. Step-by-step guide covering tokens, Angular, React, Flutter and Storybook workflow.
+head:
+  - - meta
+    - property: og:title
+      content: First Component | OhMyUI!
+  - - meta
+    - property: og:description
+      content: Learn how to build your first component in OhMyUI!. Step-by-step guide covering tokens, Angular, React, Flutter and Storybook workflow.
+  - - meta
+    - property: og:url
+      content: https://ui.ohmyopensource.org/getting-started/first-component
+  - - meta
+    - name: keywords
+      content: create component guide, design system tutorial, angular component guide, react component guide, flutter component guide, storybook workflow, ohmyui
+  - - meta
+    - name: twitter:title
+      content: First Component | OhMyUI!
+  - - meta
+    - name: twitter:description
+      content: Learn how to build your first component in OhMyUI!. Step-by-step guide covering tokens, Angular, React, Flutter and Storybook workflow.
+---
+
+# OhMyUI! - First Component
 
 This page walks you through creating your first component in OhMyUI! from scratch, end to end. You will create a simple `Tag` component for all three platforms.
 

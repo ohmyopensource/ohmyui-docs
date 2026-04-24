@@ -1,4 +1,28 @@
-# Style Dictionary
+---
+title: Style Dictionary | OhMyUI!
+description: Learn how Style Dictionary powers OhMyUI! design tokens. Convert JSON tokens into CSS variables and Flutter constants automatically.
+head:
+  - - meta
+    - property: og:title
+      content: Style Dictionary | OhMyUI!
+  - - meta
+    - property: og:description
+      content: Learn how Style Dictionary powers OhMyUI! design tokens. Convert JSON tokens into CSS variables and Flutter constants automatically.
+  - - meta
+    - property: og:url
+      content: https://ui.ohmyopensource.org/technologies/style-dictionary
+  - - meta
+    - name: keywords
+      content: style dictionary, design tokens build tool, css variables generator, flutter tokens generator, design system automation, ohmyui tokens pipeline
+  - - meta
+    - name: twitter:title
+      content: Style Dictionary | OhMyUI!
+  - - meta
+    - name: twitter:description
+      content: Learn how Style Dictionary powers OhMyUI! design tokens. Convert JSON tokens into CSS variables and Flutter constants automatically.
+---
+
+# OhMyUI! - Style Dictionary
 
 Style Dictionary is the tool that powers the OhMyUI! token system. It takes token definitions written in JSON and compiles them into platform-specific output formats - CSS variables for Angular and React, and Dart constants for Flutter.
 

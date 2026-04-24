@@ -1,4 +1,28 @@
-# Spacing
+---
+title: Spacing | OhMyUI!
+description: Explore OhMyUI! spacing and radius tokens. Consistent 4px scale for padding, margin and layout across Angular, React and Flutter.
+head:
+  - - meta
+    - property: og:title
+      content: Spacing | OhMyUI!
+  - - meta
+    - property: og:description
+      content: Explore OhMyUI! spacing and radius tokens. Consistent 4px scale for padding, margin and layout across Angular, React and Flutter.
+  - - meta
+    - property: og:url
+      content: https://ui.ohmyopensource.org/tokens/spacing
+  - - meta
+    - name: keywords
+      content: spacing tokens, design system spacing, css spacing scale, ui layout spacing, border radius tokens, design system layout, ohmyui tokens
+  - - meta
+    - name: twitter:title
+      content: Spacing | OhMyUI!
+  - - meta
+    - name: twitter:description
+      content: Explore OhMyUI! spacing and radius tokens. Consistent 4px scale for padding, margin and layout across Angular, React and Flutter.
+---
+
+# OhMyUI! - Spacing
 
 Spacing tokens are defined in `packages/tokens/src/spacing.json` and used for padding, margin, gap and any other dimensional value in components.
 

@@ -1,4 +1,28 @@
-# Nx
+---
+title: Nx | OhMyUI!
+description: Learn how Nx powers the OhMyUI! monorepo. Manage Angular, React and Flutter packages with tasks, caching and project graphs.
+head:
+  - - meta
+    - property: og:title
+      content: Nx | OhMyUI!
+  - - meta
+    - property: og:description
+      content: Learn how Nx powers the OhMyUI! monorepo. Manage Angular, React and Flutter packages with tasks, caching and project graphs.
+  - - meta
+    - property: og:url
+      content: https://ui.ohmyopensource.org/technologies/nx
+  - - meta
+    - name: keywords
+      content: nx monorepo, nx workspace, monorepo tooling, angular react flutter monorepo, nx caching, project graph nx, ohmyui architecture
+  - - meta
+    - name: twitter:title
+      content: Nx | OhMyUI!
+  - - meta
+    - name: twitter:description
+      content: Learn how Nx powers the OhMyUI! monorepo. Manage Angular, React and Flutter packages with tasks, caching and project graphs.
+---
+
+# OhMyUI! - Nx
 
 Nx is the monorepo management tool used in OhMyUI!. It provides a structured way to organize multiple packages in a single repository, with built-in support for running tasks, caching build results and managing dependencies between packages.
 
