@@ -10,7 +10,7 @@ head:
       content: Open source Button component for Angular, React and Flutter. Three variants, three sizes and disabled state, all built with design tokens.
   - - meta
     - property: og:url
-      content: https://ui.ohmyopensource.org/components/button
+      content: https://docs.ui.ohmyopensource.org/components/button
   - - meta
     - name: keywords
       content: button component, angular button, react button, flutter button, ohmyui, design system, open source ui

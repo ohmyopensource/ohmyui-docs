@@ -10,7 +10,7 @@ head:
       content: Install OhMyUI! for Angular, React and Flutter. Quick setup guide with npm, tokens and usage examples to get started fast.
   - - meta
     - property: og:url
-      content: https://ui.ohmyopensource.org/getting-started/installation
+      content: https://docs.ui.ohmyopensource.org/getting-started/installation
   - - meta
     - name: keywords
       content: ohmyui installation, install design system, angular ui install, react ui install, flutter ui install, npm ui library, design tokens setup

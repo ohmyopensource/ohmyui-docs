@@ -10,7 +10,7 @@ head:
       content: Learn how to build your first component in OhMyUI!. Step-by-step guide covering tokens, Angular, React, Flutter and Storybook workflow.
   - - meta
     - property: og:url
-      content: https://ui.ohmyopensource.org/getting-started/first-component
+      content: https://docs.ui.ohmyopensource.org/getting-started/first-component
   - - meta
     - name: keywords
       content: create component guide, design system tutorial, angular component guide, react component guide, flutter component guide, storybook workflow, ohmyui

@@ -10,7 +10,7 @@ head:
       content: Explore OhMyUI! typography tokens. Font families, sizes, weights and line heights for consistent text across Angular, React and Flutter.
   - - meta
     - property: og:url
-      content: https://ui.ohmyopensource.org/tokens/typography
+      content: https://docs.ui.ohmyopensource.org/tokens/typography
   - - meta
     - name: keywords
       content: typography tokens, design system typography, font size tokens, font weight tokens, css typography variables, ui typography system, ohmyui tokens

@@ -10,7 +10,7 @@ head:
       content: Explore OhMyUI! spacing and radius tokens. Consistent 4px scale for padding, margin and layout across Angular, React and Flutter.
   - - meta
     - property: og:url
-      content: https://ui.ohmyopensource.org/tokens/spacing
+      content: https://docs.ui.ohmyopensource.org/tokens/spacing
   - - meta
     - name: keywords
       content: spacing tokens, design system spacing, css spacing scale, ui layout spacing, border radius tokens, design system layout, ohmyui tokens

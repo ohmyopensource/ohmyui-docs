@@ -10,7 +10,7 @@ head:
       content: Learn how design tokens work in OhMyUI!. Centralized values for colors, spacing and typography shared across Angular, React and Flutter.
   - - meta
     - property: og:url
-      content: https://ui.ohmyopensource.org/tokens/overview
+      content: https://docs.ui.ohmyopensource.org/tokens/overview
   - - meta
     - name: keywords
       content: design tokens, design system tokens, style dictionary tokens, css variables design system, flutter design tokens, cross platform ui tokens, ohmyui

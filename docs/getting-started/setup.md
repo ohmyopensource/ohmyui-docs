@@ -10,7 +10,7 @@ head:
       content: Set up your local environment for OhMyUI!. Install dependencies, build tokens and run Storybook for Angular, React and Flutter.
   - - meta
     - property: og:url
-      content: https://ui.ohmyopensource.org/getting-started/setup
+      content: https://docs.ui.ohmyopensource.org/getting-started/setup
   - - meta
     - name: keywords
       content: ohmyui setup, local development setup, design system development, storybook setup, angular storybook, react storybook, flutter ui development

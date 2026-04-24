@@ -10,7 +10,7 @@ head:
       content: Learn how VitePress powers the OhMyUI! documentation site. Write Markdown docs, configure navigation and build a static site.
   - - meta
     - property: og:url
-      content: https://ui.ohmyopensource.org/technologies/vitepress
+      content: https://docs.ui.ohmyopensource.org/technologies/vitepress
   - - meta
     - name: keywords
       content: vitepress, documentation site generator, markdown docs, static site generator, vue docs tool, ohmyui documentation
@@ -224,7 +224,7 @@ touch docs/components/input.md
 
 The documentation is deployed automatically to Vercel on every push to `main`. Vercel detects VitePress and runs `npm run docs:build` automatically.
 
-The production site is available at [ui.ohmyopensource.org](https://ui.ohmyopensource.org).
+The production site is available at [docs.ui.ohmyopensource.org](https://docs.ui.ohmyopensource.org).
 
 ---
 

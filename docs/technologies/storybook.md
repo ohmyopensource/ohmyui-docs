@@ -10,7 +10,7 @@ head:
       content: Learn how Storybook is used in OhMyUI! to build, test and document Angular and React components in isolated environments.
   - - meta
     - property: og:url
-      content: https://ui.ohmyopensource.org/technologies/storybook
+      content: https://docs.ui.ohmyopensource.org/technologies/storybook
   - - meta
     - name: keywords
       content: storybook, ui component testing, angular storybook, react storybook, design system documentation, component playground, ohmyui

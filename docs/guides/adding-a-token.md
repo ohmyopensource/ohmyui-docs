@@ -10,7 +10,7 @@ head:
       content: Learn how to add a new design token in OhMyUI!. Edit JSON sources, rebuild tokens and use them across Angular, React and Flutter.
   - - meta
     - property: og:url
-      content: https://ui.ohmyopensource.org/guides/adding-a-token
+      content: https://docs.ui.ohmyopensource.org/guides/adding-a-token
   - - meta
     - name: keywords
       content: add design token, design system tokens, style dictionary workflow, css variables tokens, flutter design tokens, token naming conventions, ohmyui tokens

@@ -10,7 +10,7 @@ head:
       content: Learn how Nx powers the OhMyUI! monorepo. Manage Angular, React and Flutter packages with tasks, caching and project graphs.
   - - meta
     - property: og:url
-      content: https://ui.ohmyopensource.org/technologies/nx
+      content: https://docs.ui.ohmyopensource.org/technologies/nx
   - - meta
     - name: keywords
       content: nx monorepo, nx workspace, monorepo tooling, angular react flutter monorepo, nx caching, project graph nx, ohmyui architecture

@@ -15,7 +15,7 @@ This repository contains the **official documentation for OhMyUI!**, the open so
 ## Documentation site
 
 The documentation is published at:
-[ui.ohmyopensource.org](https://ui.ohmyopensource.org) _(coming soon)_
+[docs.ui.ohmyopensource.org](https://docs.ui.ohmyopensource.org) _(coming soon)_
 
 ## Repositories
 

@@ -10,7 +10,7 @@ head:
       content: Learn how to create a new Angular component in OhMyUI!. Step-by-step guide with tokens, Storybook and project structure.
   - - meta
     - property: og:url
-      content: https://ui.ohmyopensource.org/guides/adding-a-component-angular
+      content: https://docs.ui.ohmyopensource.org/guides/adding-a-component-angular
   - - meta
     - name: keywords
       content: angular component guide, create angular component, design system angular, storybook angular guide, ui component angular, ohmyui angular

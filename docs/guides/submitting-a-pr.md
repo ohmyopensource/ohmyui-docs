@@ -10,7 +10,7 @@ head:
       content: Learn how to submit a Pull Request to OhMyUI!. Branching, commit conventions, review process and best practices for contributions.
   - - meta
     - property: og:url
-      content: https://ui.ohmyopensource.org/guides/submitting-a-pr
+      content: https://docs.ui.ohmyopensource.org/guides/submitting-a-pr
   - - meta
     - name: keywords
       content: pull request guide, open source contribution, git workflow, conventional commits, dev branch workflow, code review process, ohmyui contribution

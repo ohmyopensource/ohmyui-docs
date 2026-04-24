@@ -10,7 +10,7 @@ head:
       content: Learn how to create a new React component in OhMyUI!. Step-by-step guide with TypeScript, CSS modules, tokens and Storybook setup.
   - - meta
     - property: og:url
-      content: https://ui.ohmyopensource.org/guides/adding-a-component-react
+      content: https://docs.ui.ohmyopensource.org/guides/adding-a-component-react
   - - meta
     - name: keywords
       content: react component guide, create react component, design system react, storybook react guide, css modules react, ui component react, ohmyui react

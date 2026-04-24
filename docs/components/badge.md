@@ -10,7 +10,7 @@ head:
       content: Open source Badge component for Angular, React and Flutter. Five semantic variants and two sizes for status, labels and categories.
   - - meta
     - property: og:url
-      content: https://ui.ohmyopensource.org/components/badge
+      content: https://docs.ui.ohmyopensource.org/components/badge
   - - meta
     - name: keywords
       content: badge component, angular badge, react badge, flutter badge, ui label, status badge, design system, open source ui

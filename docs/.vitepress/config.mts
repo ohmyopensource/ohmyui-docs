@@ -3,7 +3,15 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
   title: 'OhMyUI!',
   description: 'Open source design system by OhMyOpenSource!',
+  lang: 'en-US',
 
+  srcDir: '.',
+  outDir: '../dist',
+  cleanUrls: true,
+
+  // ================================
+  // SEO & SOCIAL MEDIA META TAGS
+  // ================================
   head: [
     ['meta', { charset: 'utf-8' }],
     [
@@ -15,12 +23,20 @@ export default defineConfig({
     ['meta', { name: 'robots', content: 'index, follow' }],
 
     ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:title', content: 'OhMyUI! Docs' }],
+    [
+      'meta',
+      {
+        property: 'og:description',
+        content: 'Open Source design system by OhMyOpenSource!',
+      },
+    ],
     ['meta', { property: 'og:site_name', content: 'OhMyUI!' }],
     [
       'meta',
       {
         property: 'og:image',
-        content: 'https://ui.ohmyopensource.org/og-image.png',
+        content: 'https://docs.docs.ui.ohmyopensource.org/og-image.png',
       },
     ],
     ['meta', { property: 'og:image:width', content: '1200' }],
@@ -33,7 +49,7 @@ export default defineConfig({
       'meta',
       {
         name: 'twitter:image',
-        content: 'https://ui.ohmyopensource.org/og-image.png',
+        content: 'https://docs.docs.ui.ohmyopensource.org/og-image.png',
       },
     ],
 
@@ -46,6 +62,9 @@ export default defineConfig({
   themeConfig: {
     logo: '/logo.svg',
 
+    // ================================
+    // TOP NAVIGATION
+    // ================================
     nav: [
       { text: 'Getting Started', link: '/getting-started/installation' },
       { text: 'Tokens', link: '/tokens/overview' },
@@ -54,7 +73,13 @@ export default defineConfig({
       { text: 'Technologies', link: '/technologies/style-dictionary' },
     ],
 
+    // ================================
+    // SIDEBARS
+    // ================================
     sidebar: {
+      // ================================
+      // GETTING STARTED
+      // ================================
       '/getting-started/': [
         {
           text: 'Getting Started',
@@ -68,6 +93,10 @@ export default defineConfig({
           ],
         },
       ],
+
+      // ================================
+      // TOKENS
+      // ================================
       '/tokens/': [
         {
           text: 'Design Tokens',
@@ -79,6 +108,10 @@ export default defineConfig({
           ],
         },
       ],
+
+      // ================================
+      // COMPONENTS
+      // ================================
       '/components/': [
         {
           text: 'Components',
@@ -88,6 +121,10 @@ export default defineConfig({
           ],
         },
       ],
+
+      // ================================
+      // GUIDES
+      // ================================
       '/guides/': [
         {
           text: 'Guides',
@@ -109,6 +146,10 @@ export default defineConfig({
           ],
         },
       ],
+
+      // ================================
+      // TECHNOLOGIES
+      // ================================
       '/technologies/': [
         {
           text: 'Technologies',
@@ -125,6 +166,9 @@ export default defineConfig({
       ],
     },
 
+    // ================================
+    // SITE EXTRAS
+    // ================================
     socialLinks: [
       { icon: 'github', link: 'https://github.com/ohmyopensource/ohmyui' },
     ],
@@ -134,8 +178,35 @@ export default defineConfig({
       copyright: 'Copyright © 2026 OhMyOpenSource!',
     },
 
+    editLink: {
+      pattern: 'https://github.com/ohmyopensource/ohmyui/edit/main/docs/:path',
+      text: 'Edit this page on GitHub',
+    },
+
     search: {
       provider: 'local',
     },
+
+    lastUpdated: {
+      text: 'Last updated',
+      formatOptions: {
+        dateStyle: 'medium',
+        timeStyle: 'short',
+      },
+    },
+
+    docFooter: {
+      prev: 'Previous page',
+      next: 'Next page',
+    },
+
+    outline: {
+      label: 'On this page',
+      level: [2, 3],
+    },
+
+    returnToTopLabel: 'Back to top',
+    sidebarMenuLabel: 'Menu',
+    darkModeSwitchLabel: 'Theme',
   },
 });

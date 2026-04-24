@@ -10,7 +10,7 @@ head:
       content: Learn how to create a new Flutter widget in OhMyUI!. Step-by-step guide with Dart, tokens, testing and project structure.
   - - meta
     - property: og:url
-      content: https://ui.ohmyopensource.org/guides/adding-a-component-flutter
+      content: https://docs.ui.ohmyopensource.org/guides/adding-a-component-flutter
   - - meta
     - name: keywords
       content: flutter widget guide, create flutter component, design system flutter, dart ui components, flutter tokens, ohmyui flutter

@@ -10,7 +10,7 @@ head:
       content: Explore OhMyUI! color tokens. Primary, neutral and semantic palettes available as CSS variables and Dart constants for consistent UI design.
   - - meta
     - property: og:url
-      content: https://ui.ohmyopensource.org/tokens/colors
+      content: https://docs.ui.ohmyopensource.org/tokens/colors
   - - meta
     - name: keywords
       content: color tokens, design system colors, css variables colors, dart color constants, ui color palette, semantic colors, ohmyui tokens
